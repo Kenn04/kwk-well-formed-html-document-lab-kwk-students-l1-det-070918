@@ -1,0 +1,18 @@
+.navigation (
+/* creates bar across screen if class is assigned to HTML */
+width: 100%;
+height: 50px;
+background-color: lightblue;
+)
+
+h1 (
+/* centered, very large header */
+text-align: center;
+font-size: 400%;
+)
+
+body (
+/* sets background image. Can also play animated gifs */)
+background:
+url(an_image_OR_animated_gif_from_the_internet);
+background-size: contain;
